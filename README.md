@@ -16,7 +16,7 @@ Below is an illustration of the proposed system:
 ## 🌐 Demo
 
 You can explore our demo page here:
-👉 [Speech Repair Demo](https://xinyu0308.github.io/Speech_Repair/)
+👉 [Speech Repair Demo](https://speech-repair.github.io/Demo/)
 
 ---
 ## 📂 Modules
